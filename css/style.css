@@ -105,6 +105,10 @@ input[type="radio"].visually-hidden {
   cursor: pointer;
 }
 
+.logos__item:hover {
+  opacity: 0.8;
+}
+
 .modal {
   position: fixed;
   z-index: 20;
@@ -292,4 +296,3 @@ input[type="radio"].visually-hidden {
     margin-right: 25px;
   }
 }
-
